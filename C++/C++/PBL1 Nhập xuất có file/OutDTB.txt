@@ -1,0 +1,3 @@
+Alice: 7.4
+Bob: 8.6
+Charles: 7.0

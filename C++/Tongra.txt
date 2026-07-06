@@ -1,0 +1,4 @@
+Tong cac so o hang 1 la: 10
+Tong cac so o hang 2 la: 14
+Tong cac so o hang 3 la: 20
+Tong cac so o hang 4 la: 6
